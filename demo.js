@@ -5,6 +5,6 @@ var LCT = require('./lib/lctbuild');
 console.log(LCT);
 var LCT = new LCT({
 	path:"test.js",
-	name:"test"
+	name:"Test"
 })
 LCT.build();
